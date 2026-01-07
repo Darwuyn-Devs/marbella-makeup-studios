@@ -1,4 +1,5 @@
 [
-  { "thumb": "/assets/gallery/look1-thumb.webp", "full": "/assets/gallery/look1.webp", "alt": "Maquillaje glam 1", "tag": "Social" },
-  { "thumb": "/assets/gallery/look2-thumb.webp", "full": "/assets/gallery/look2.webp", "alt": "Maquillaje novia 1", "tag": "Novias" }
+  { "thumb": "/assets/gallery/look1-thumb.webp", "full": "/assets/gallery/look1.webp", "alt": "Maquillaje glam social", "tag": "Social" },
+  { "thumb": "/assets/gallery/look2-thumb.webp", "full": "/assets/gallery/look2.webp", "alt": "Maquillaje de novia", "tag": "Novias" },
+  { "thumb": "/assets/gallery/look3-thumb.webp", "full": "/assets/gallery/look3.webp", "alt": "Micropigmentación cejas", "tag": "Micropigmentación" }
 ]

@@ -1,15 +1,12 @@
 [
   {
-    "category": "Maquillaje",
+    "category": "Cabina",
     "items": [
-      { "name": "Maquillaje social", "desc": "Acabado glam para eventos.", "duration": 75, "price": 35 },
-      { "name": "Maquillaje de novia", "desc": "Prueba + día de boda.", "duration": 120, "price": 120 }
-    ]
-  },
-  {
-    "category": "Peinados",
-    "items": [
-      { "name": "Ondas glam", "desc": "Ondas definidas y pulidas.", "duration": 60, "price": 30 }
+      { "name": "Micropigmentación", "desc": "Técnicas avanzadas para cejas y labios.", "duration": 120, "price": 150 },
+      { "name": "Brow Lamination", "desc": "Definición y fijación de cejas.", "duration": 60, "price": 50 },
+      { "name": "Lifting", "desc": "Realce natural de pestañas.", "duration": 45, "price": 40 },
+      { "name": "Hidralips", "desc": "Hidratación profunda de labios.", "duration": 60, "price": 60 },
+      { "name": "Epilaciones faciales y corporales", "desc": "Depilación con técnicas seguras.", "duration": 30, "price": 25 }
     ]
   }
 ]
