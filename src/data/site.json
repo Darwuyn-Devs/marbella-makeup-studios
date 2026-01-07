@@ -1,0 +1,30 @@
+{
+  "brand": "Marbella Makeup Studios",
+  "instagram": "https://instagram.com/MarbellaMakeupStudios",
+  "whatsapp": "+50764913144",
+  "currency": "USD",
+  "exchangeRate": 40.0,
+  "address": "San Antonio San Miguelito, Panamá, Provincia de Panamá, Panamá",
+  "hours": [
+    { "days": "Lun–Sáb", "time": "09:00–18:00" },
+    { "days": "Dom", "time": "Cerrado" }
+  ],
+  "seo": {
+    "title": "Marbella Makeup Studios",
+    "description": "14 años de experiencia enfocada en la belleza a través del  Maquillaje Profesional y la Micropigmentación. Especialistas en novias, sociales y quinceañeras.",
+    "ogImage": "/assets/og.jpg"
+  },
+  "theme": {
+    "colors": {
+      "black": "#0D0D0D",
+      "gold": "#C9A646",
+      "ivory": "#FAF7F2",
+      "nude": "#E8D7CC"
+    },
+    "fonts": {
+      "title": "Playfair Display",
+      "text": "Inter"
+    }
+  }
+}
+

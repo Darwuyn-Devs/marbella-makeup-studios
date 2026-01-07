@@ -1,0 +1,15 @@
+[
+  {
+    "category": "Maquillaje",
+    "items": [
+      { "name": "Maquillaje social", "desc": "Acabado glam para eventos.", "duration": 75, "price": 35 },
+      { "name": "Maquillaje de novia", "desc": "Prueba + día de boda.", "duration": 120, "price": 120 }
+    ]
+  },
+  {
+    "category": "Peinados",
+    "items": [
+      { "name": "Ondas glam", "desc": "Ondas definidas y pulidas.", "duration": 60, "price": 30 }
+    ]
+  }
+]
